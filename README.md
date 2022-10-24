@@ -19,7 +19,7 @@
     🐍 Le PHP
     🎤 Le Mysql
     🧸 Le WordPress
-    🧠 L'algorithmie
+    🧠 L'Algorithmie
 
 
 <hr><strong>Mes languages maitrisés :</strong></hr>
