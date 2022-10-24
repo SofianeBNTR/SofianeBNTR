@@ -4,7 +4,8 @@
 <h1><strong>Accueil :</strong></h1>
 
 
-    👋 Hey, je suis @SofianeBNTR, je suis un étudiant de 16 ans à @EdenSchoolFrance qui débutent encore en Web Development.
+    👋 Hey, je suis @SofianeBNTR, je suis un étudiant de 16 ans à @EdenSchoolFrance qui débutent encore en Web
+       Development.
     📫 Me contacter: mbentahar@edenschool.fr
 
 <h2><strong>Mes projets effectués :</strong></h2>
