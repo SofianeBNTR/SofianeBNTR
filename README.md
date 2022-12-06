@@ -15,8 +15,8 @@
 
 <h2><strong>Mes apprentissage en cours :</strong></h2>
 
-    ⚙️ Le Git
-    🌐 Le HTML
+    ⚙️ Le GIT
+    🌐 L' HTML
     🎨 Le CSS
     🐍 Le PHP
     🎤 Le Mysql
