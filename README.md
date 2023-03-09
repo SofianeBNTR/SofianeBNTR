@@ -16,11 +16,12 @@
 <h2><strong>Mes apprentissage en cours :</strong></h2>
 
     ⚙️ Le GIT
-    🌐 L' HTML
-    🎨 Le CSS
+    🌐 L' HTML5 - B.E.M.
+    🎨 Le SCSS
     🐍 Le PHP
-    🎤 Le Mysql
-    🧸 Le WordPress
+    🎤 Le Laravel
+    🧸 Le Mysql
+    🎃 Le WordPress
     🧠 L'Algorithmie
 
 
