@@ -35,7 +35,7 @@
     👨‍🎨 L'Art-Digital et l'Animation 2D
     📖 Les WebComics/WebToons (anglophone)
     🎵 Les Vocaloids et le Vtubing
-    🎮 Les Indies-Game RétroRPG/VisualNovel du genre psycho, horreur, post-traumatique
+    🎮 Les Indies-Game RétroRPG/VisualNovel de préférence psychological horror
     📺 Les cartoons des années 2000
 
 
