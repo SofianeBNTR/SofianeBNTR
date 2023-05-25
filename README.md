@@ -16,9 +16,8 @@
 <h2><strong>Mes apprentissage en cours :</strong></h2>
 
     ⚙️ Le GIT
-    🌐 L' HTML5 - B.E.M.
-    🎨 Le SCSS
     🐍 Le PHP
+    🤖 Le JavaScript
     🎤 Le Laravel
     🧸 Le Mysql
     🎃 Le WordPress
@@ -27,7 +26,8 @@
 
 <h2><strong>Mes languages maitrisés :</strong></h2>
 
-    🤖 Le JavaScript
+    🌐 L' HTML5 - B.E.M.
+    🎨 Le CSS - SCSS
 
 
 <h2><strong>Mes passions :</strong></h2>
